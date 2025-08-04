@@ -1,0 +1,2 @@
+# Multi-Collinearity
+Multi Collinearity
